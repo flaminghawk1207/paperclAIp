@@ -14,6 +14,11 @@ Your intelligent clipboard companion for desktop. PaperclAIp watches your clipbo
 - React + Vite + TypeScript + Tailwind CSS
 - Optional MySQL (via `mysql2`) for persistent storage
 - Google Gemini API for tag generation
+---
+### Demo
+
+https://github.com/user-attachments/assets/019cda7b-d420-4898-b74f-9207392e670c
+
 
 ---
 
